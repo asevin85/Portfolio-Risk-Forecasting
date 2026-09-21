@@ -42,7 +42,7 @@ w_i^{(ED)}
 {\sum_{j=1}^{N}D_j^{-1}},
 $$
 
-where \(D_i\) denotes the Energy Distance between stock \(i\) and its corresponding benchmark.
+where $$D_i$$ denotes the Energy Distance between stock \(i\) and its corresponding benchmark.
 
 For distributional-test-based specifications, test \(p\)-values are incorporated as **monotonic similarity scores** within the weighting rule. Higher \(p\)-values correspond to weaker evidence against distributional equality and therefore receive larger allocation scores. This use of \(p\)-values is intended as a transparent heuristic weighting mechanism rather than as an interpretation of \(p\)-values as effect sizes or probabilities of distributional equality.
 
