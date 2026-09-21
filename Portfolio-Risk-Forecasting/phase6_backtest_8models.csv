@@ -1,0 +1,9 @@
+Model,Sharpe,Beat_Rate_%,Expected_Shortfall_%
+ED Only,1.2183,79.2,-2.3583
+ED + KS,1.268,89.0,-2.4657
+ED + KS + L-Kurt,1.2824,90.9,-2.4688
+ED + KS + Tail_Asym,1.2408,84.8,-2.55
+ED + AD + Tail_Asym,1.258,87.6,-2.5883
+ED + AD + L-Kurt,1.2998,93.2,-2.5081
+ED + CvM + Tail_Asym,1.2231,80.9,-2.6109
+ED + Epps-Singleton + Tail_Asym,1.4004,98.6,-2.8285

@@ -1,0 +1,17 @@
+Model,OOS_Sharpe,OOS_Beat_Rate_%,OOS_Expected_Shortfall_%
+ED Only,1.4409,78.2,-2.0611
+ED + KS,1.4328,76.6,-2.1341
+ED + KS + L-Kurt,1.4259,75.2,-2.1628
+ED + KS + Tail_Asym,1.4241,74.6,-2.2238
+ED + AD + Tail_Asym,1.4088,72.2,-2.3246
+ED + AD + L-Kurt,1.3953,69.3,-2.2567
+ED + CvM + Tail_Asym,1.4074,72.0,-2.3397
+ED + Epps-Singleton + Tail_Asym,1.2767,41.6,-2.4772
+Correlation Only,1.4247,74.8,-2.1052
+Volatility Only,1.4597,81.1,-1.7
+Correlation + Volatility,1.4838,84.8,-1.7507
+KS Only,1.4324,76.5,-2.0609
+AD Only,1.4395,77.8,-2.1506
+Correlation + ED,1.4412,78.2,-2.1279
+Correlation + KS,1.4325,76.5,-2.1325
+Correlation + ED + KS,1.4267,75.3,-2.1888
