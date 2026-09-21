@@ -38,8 +38,7 @@ For example, the baseline Energy Distance specification assigns weights inversel
 
 $$
 w_i^{(ED)}
-=
-\frac{D_i^{-1}}
+=\frac{D_i^{-1}}
 {\sum_{j=1}^{N}D_j^{-1}},
 $$
 
